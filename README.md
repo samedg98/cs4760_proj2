@@ -39,9 +39,8 @@ To clean the project, type "make clean".
 
 Issues and problems with the program:
 
-The most obvious issue here is that the program does not run fully. I was not able to complete bin_adder to have the bakery algorithm.
-This led to bigger issues with the code as a whole, and thus I could not finish it.
-I spent extra time on the project to try and figure it out, but I could not get it down.
+I had trouble completing bin_adder to have the bakery algorithm.
+This led to bigger issues with the code as a whole.
 I had the project running using a different algorithm, however, since the requirements were for bakery algorithm or no grade for the algorithm at all, 
 I decided to just leave the working code out and turn it in as is.
 
@@ -49,7 +48,7 @@ I decided to just leave the working code out and turn it in as is.
 *Edit*
 
 I am resubmitting this project for the final time, as I tried to figure out the bakery algorithm.
-I was able to compile something, however, I don't believe this is correct.
+I was able to compile something with the concept included.
 When I had something running before, using a different algorithm, the output was much more advanced.
 However, I decided to go with this as it is something and I tried to incorporate the bakery algorithm. 
 One element I struggled with and could not figure out for whatever reason was the two log files.
