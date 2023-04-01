@@ -1,10 +1,8 @@
 # Project 2
 
 # Samed Ganibegovic
-# Operating Systems CS4760
 
-# Assignment 2: Concurrent UNIX Processes and shared memory
-# Due: March 1st 2021
+# Concurrent UNIX Processes and shared memory
 
 
 --------------------------------------------------------------------------------------------------------
