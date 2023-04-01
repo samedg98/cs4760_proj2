@@ -60,4 +60,4 @@ One element I struggled with and could not figure out for whatever reason was th
 
 Link to version control:
 
-https://github.com/sg-21/cs4760_project2 
+https://github.com/samedg98/project2 
