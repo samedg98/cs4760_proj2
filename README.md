@@ -9,7 +9,7 @@
 
 Brief Description: 
 
-The goal of this homework is to become familiar with concurrent processing in Linux using shared memory.  
+The goal of this project is to become familiar with concurrent processing in Linux using shared memory.  
 
 --------------------------------------------------------------------------------------------------------
 
